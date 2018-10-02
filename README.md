@@ -106,3 +106,8 @@ See
 ## License
 
 MIT
+
+
+## deploy
+[pm2-docker](http://pm2.keymetrics.io/docs/usage/docker-pm2-nodejs/)
+[docker-pm2](https://github.com/keymetrics/docker-pm2)
