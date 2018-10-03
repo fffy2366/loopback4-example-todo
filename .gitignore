@@ -1,1 +1,5 @@
 node_modules
+*example-todo*.tgz
+dist* package
+api-docs
+npm-debug.log
